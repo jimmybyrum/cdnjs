@@ -30,13 +30,5 @@
   ],
   "scripts": {
     "test": "npm test"
-  },
-  "autoupdate": {
-    "source": "git",
-    "target": "git://github.com/jimmybyrum/vault.js.git",
-    "basePath": "/dist/",
-    "files": [
-      "*.js"
-    ]
   }
 }
